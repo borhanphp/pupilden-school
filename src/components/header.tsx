@@ -33,7 +33,7 @@ export default function Header() {
             <a
               key={l.href}
               href={l.href}
-              className="text-sm font-medium text-muted hover:text-foreground transition-colors"
+              className="text-base font-semibold text-foreground hover:text-primary transition-colors"
             >
               {l.label}
             </a>
@@ -65,7 +65,7 @@ export default function Header() {
               key={l.href}
               href={l.href}
               onClick={() => setOpen(false)}
-              className="block py-3 text-sm font-medium text-muted hover:text-foreground"
+              className="block py-3 text-base font-semibold text-foreground hover:text-primary"
             >
               {l.label}
             </a>
