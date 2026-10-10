@@ -23,7 +23,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative pt-16 h-[90vh] min-h-[600px] overflow-hidden">
+    <section className="relative pt-16 h-[90vh] min-h-150 overflow-hidden">
       {images.map((src, i) => (
         <div
           key={src}
@@ -37,7 +37,7 @@ export default function Hero() {
         </div>
       ))}
 
-      <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/30" />
+      <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/40 to-black/30" />
 
       <div className="relative z-10 h-full flex items-center">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 w-full text-center">
