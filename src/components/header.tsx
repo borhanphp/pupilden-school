@@ -42,7 +42,7 @@ export default function Header() {
 
         <div className="hidden lg:flex items-center gap-3">
           <a
-            href="https://school.pupilden.com/login"
+            href="https://app.elearning-rhdc.com/login"
             className="text-sm font-medium bg-primary text-white px-5 py-2 rounded-lg hover:bg-primary-dark transition-colors"
           >
             Login to LMS
@@ -71,7 +71,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="https://school.pupilden.com/login"
+            href="https://app.elearning-rhdc.com/login"
             className="mt-2 block text-sm font-medium text-center py-2 bg-primary text-white rounded-lg"
           >
             Login to LMS

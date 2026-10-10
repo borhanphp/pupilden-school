@@ -8,7 +8,7 @@ const footerLinks = {
     { label: "Project Impact", href: "#impact" },
   ],
   Resources: [
-    { label: "Login to LMS", href: "https://school.pupilden.com/login" },
+    { label: "Login to LMS", href: "https://app.elearning-rhdc.com/login" },
     { label: "Leadership", href: "#leadership" },
     { label: "Gallery", href: "#gallery" },
   ],
