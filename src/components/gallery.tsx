@@ -29,6 +29,7 @@ const activities = [
     label: "Network Connection (Starlink/ISP/Mobile Network) Set-up",
     images: [
       "/images/Part-8/Network_Connection_Set-up/WhatsApp%20Image%202026-08-25%20at%2015.07.51.jpeg",
+      "/images/Part-8/Network_Connection_Set-up/WhatsApp%20Image%202026-10-11%20at%2015.53.31.jpeg",
     ],
   },
   {
