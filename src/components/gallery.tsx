@@ -16,17 +16,6 @@ const activities = [
     ],
   },
   {
-    label: "TV & Laptop Handover Program",
-    images: [
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-31%20at%2008.18.44.jpeg",
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-31%20at%2008.19.00.jpeg",
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-31%20at%2008.18.54.jpeg",
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-31%20at%2008.18.46.jpeg",
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-15%20at%2013.55.39.jpeg",
-      "/images/Part-8/TV_Laptop_Handover-Program/WhatsApp%20Image%202026-08-31%20at%2008.19.01.jpeg",
-    ],
-  },
-  {
     label: "TV & Laptop Set-up",
     images: [
       "/images/Part-8/TV%26Laptop_Set-up/WhatsApp%20Image%202026-08-27%20at%2017.19.30.jpeg",
