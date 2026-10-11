@@ -8,7 +8,7 @@ export default function Impact() {
 
         <div className="mt-10 space-y-6 text-muted text-lg leading-relaxed">
           <p>
-            The E-Learning Project is designed to reduce the educational
+            The e-Learning Project is designed to reduce the educational
             challenges caused by geographical remoteness by creating a connected
             and technology-enabled learning environment in CHT schools.
             Initially, 53 out of the 100 enlisted high schools have received

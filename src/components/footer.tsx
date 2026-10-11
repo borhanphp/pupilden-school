@@ -9,7 +9,6 @@ const footerLinks = {
   ],
   Resources: [
     { label: "Login to LMS", href: "https://app.elearning-rhdc.com/teacher/login" },
-    { label: "Leadership", href: "#leadership" },
     { label: "Gallery", href: "#gallery" },
   ],
 };
