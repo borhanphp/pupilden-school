@@ -19,7 +19,7 @@ export default function Home() {
         <About />
         <Ecosystem />
         <Impact />
-        <Leadership />
+        {/* <Leadership /> */}
         <DigitalClasses />
         <Gallery />
       </main>
