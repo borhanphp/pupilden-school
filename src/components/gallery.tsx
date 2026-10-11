@@ -110,7 +110,7 @@ export default function Gallery() {
                 className="grid grid-cols-3 gap-2 cursor-pointer"
                 onClick={() => setLightbox({ actIdx, imgIdx: 0 })}
               >
-                <div className="col-span-2 row-span-2 aspect-[4/3] rounded-xl overflow-hidden">
+                <div className="col-span-2 row-span-2 aspect-4/3 rounded-xl overflow-hidden">
                   <div
                     className="w-full h-full bg-cover bg-center hover:scale-105 transition-transform duration-500"
                     style={{

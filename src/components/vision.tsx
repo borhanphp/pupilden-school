@@ -42,7 +42,7 @@ export default function Vision() {
     <section id="vision" className="py-20 lg:py-28 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
-          <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
+          <div className="relative aspect-4/3 rounded-2xl overflow-hidden shadow-lg">
             {allImages.map((src, i) => (
               <div
                 key={src}

@@ -9,7 +9,7 @@ export default function DigitalClasses() {
   return (
     <section
       id="digital-classes"
-      className="py-20 lg:py-28 bg-gradient-to-br from-primary to-primary-dark text-white"
+      className="py-20 lg:py-28 bg-linear-to-br from-primary to-primary-dark text-white"
     >
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl sm:text-4xl font-bold">
