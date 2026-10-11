@@ -42,6 +42,43 @@ const activities = [
       "/images/Part-8/Network_Connection_Set-up/WhatsApp%20Image%202026-08-25%20at%2015.07.51.jpeg",
     ],
   },
+  {
+    label: "Digital Classroom",
+    images: [
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2016.24.01.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2016.24.02.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2016.24.02%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2015.30.10.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2015.30.10%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-11%20at%2015.30.10%20%282%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-08%20at%2010.57.10.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-08%20at%2010.57.10%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-08%20at%2010.57.11.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-08%20at%2009.18.44.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-08%20at%2009.18.44%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-07%20at%2009.17.24.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-06%20at%2009.28.13.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-05%20at%2009.31.52.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-02%20at%2015.25.24%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-10-02%20at%2015.25.24%20%282%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-09-28%20at%2011.22.12.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-09-22%20at%2009.14.13%20%281%29.jpeg",
+      "/images/Part-8/Digital_Classroom/WhatsApp%20Image%202026-09-21%20at%2009.54.19.jpeg",
+    ],
+  },
+  {
+    label: "e-Learning Conference",
+    images: [
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-09-29%20at%2023.04.14.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-09-29%20at%2023.04.15.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-09-29%20at%2023.04.15%20%281%29.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-08-31%20at%2008.18.44.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-08-31%20at%2008.18.46.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-08-31%20at%2008.18.54.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-08-15%20at%2013.55.39.jpeg",
+      "/images/Part-8/e-Learning_Conference/WhatsApp%20Image%202026-08-15%20at%2013.55.39%20%281%29.jpeg",
+    ],
+  },
 ];
 
 export default function Gallery() {
