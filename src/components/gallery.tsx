@@ -5,18 +5,13 @@ import { ChevronLeft, ChevronRight, X } from "lucide-react";
 
 /**
  * These are WhatsApp exports, so the file names carry spaces, parentheses and
- * ampersands. Encoding each segment keeps them valid in both an <img src> and a
- * CSS url() — an unquoted url() silently drops the whole rule on a bare "(",
- * which is what left one tile showing as a plain grey box. encodeURIComponent
- * leaves brackets alone, so they are escaped here too.
+ * ampersands. encodeURIComponent handles the spaces and ampersands and leaves
+ * brackets as they are, which is deliberate: the static host matches "(" and
+ * ")" literally and 404s on %28 / %29. Literal brackets are only safe in a CSS
+ * url() when it is quoted, so every caller below quotes it.
  */
 function src(path: string) {
-  return path
-    .split("/")
-    .map((segment) =>
-      encodeURIComponent(segment).replace(/\(/g, "%28").replace(/\)/g, "%29"),
-    )
-    .join("/");
+  return path.split("/").map(encodeURIComponent).join("/");
 }
 
 const activities = [
