@@ -34,7 +34,7 @@ const activities = [
   {
     label: "TV & Laptop Set-up",
     images: [
-      "/images/Part-8/TV&Laptop_Set-up/WhatsApp Image 2026-08-27 at 17.19.30.jpeg",
+      
       "/images/Part-8/TV&Laptop_Set-up/WhatsApp Image 2026-08-25 at 12.30.35.jpeg",
       "/images/Part-8/TV&Laptop_Set-up/WhatsApp Image 2026-09-03 at 13.21.01.jpeg",
       "/images/Part-8/TV&Laptop_Set-up/WhatsApp Image 2026-08-26 at 17.25.22.jpeg",
@@ -44,6 +44,7 @@ const activities = [
   {
     label: "Network Connection (Starlink/ISP/Mobile Network) Set-up",
     images: [
+      "/images/Part-8/TV&Laptop_Set-up/WhatsApp Image 2026-08-27 at 17.19.30.jpeg",
       "/images/Part-8/Network_Connection_Set-up/WhatsApp Image 2026-08-25 at 15.07.51.jpeg",
       "/images/Part-8/Network_Connection_Set-up/WhatsApp Image 2026-10-11 at 15.53.31.jpeg",
     ],
