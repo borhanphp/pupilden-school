@@ -51,7 +51,7 @@ export default function Header() {
             href="https://app.elearning-rhdc.com/teacher/login"
             className="text-sm font-medium bg-primary text-white px-5 py-2 rounded-lg hover:bg-primary-dark transition-colors"
           >
-            Login to LMS
+            Teacher Login
           </a>
         </div>
 
