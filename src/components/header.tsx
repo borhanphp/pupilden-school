@@ -42,6 +42,12 @@ export default function Header() {
 
         <div className="hidden lg:flex items-center gap-3">
           <a
+            href="https://app.elearning-rhdc.com/student/login"
+            className="text-sm font-medium bg-green-600 text-white px-5 py-2 rounded-lg hover:bg-green-700 transition-colors"
+          >
+            Student Login
+          </a>
+          <a
             href="https://app.elearning-rhdc.com/teacher/login"
             className="text-sm font-medium bg-primary text-white px-5 py-2 rounded-lg hover:bg-primary-dark transition-colors"
           >
@@ -71,10 +77,16 @@ export default function Header() {
             </a>
           ))}
           <a
+            href="https://app.elearning-rhdc.com/student/login"
+            className="mt-2 block text-sm font-medium text-center py-2 bg-green-600 text-white rounded-lg"
+          >
+            Student Login
+          </a>
+          <a
             href="https://app.elearning-rhdc.com/teacher/login"
             className="mt-2 block text-sm font-medium text-center py-2 bg-primary text-white rounded-lg"
           >
-            Login to LMS
+            Teacher Login
           </a>
         </div>
       )}
